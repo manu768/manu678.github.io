@@ -51,6 +51,12 @@ h3 {
 	padding: 10px;
 
 }
+img {
+    float: left;
+}
+.clear {
+    clear: both;
+}
  a {
 	 color:red;
 	 text-decoration:none;
